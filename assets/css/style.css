@@ -99,7 +99,7 @@ aside {
     max-width: 150px;
 }
 
-.section-information {
+article {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -108,12 +108,12 @@ aside {
     color: #ffffff;
 }
 
-.section-information img {
+article img {
     max-height: 200px;
 }
 
 
-.section-information h2 {
+article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
