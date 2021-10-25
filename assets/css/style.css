@@ -72,13 +72,13 @@ header div ul li {
     margin-left: 25px;
 }
 
-.content {
+section {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -89,23 +89,23 @@ header div ul li {
     background-color: #2589bd;
 }
 
-.benefit-section {
+.aside-detail {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-section h3 {
+.aside-detail h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-section img {
+.aside-detail img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.horiseon-information {
+.section-information {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -114,12 +114,12 @@ header div ul li {
     color: #ffffff;
 }
 
-.horiseon-information img {
+.section-information img {
     max-height: 200px;
 }
 
 
-.horiseon-information h2 {
+.section-information h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
